@@ -4,7 +4,7 @@ I've seen many people in close circle following 100DaysChallenges.
 
 However, generating an image to post on daily basis is a pain!
 
-I came-up with this idea to create a handy utility for all the "doers" who've pledged for any kind of 100 Days Challenge - Be it Health, Fitness, Code or even reading books. This utility allows the users to choose (or upload) from a variety of image backgrounds, and choose a border style and then let's then post the image (along with the description of their milestones for a particular day) on linked social media accounts with a single click.
+I came-up with this idea to create a handy utility for all the "doers" who've pledged for any kind of 100 Days Challenge - Be it Health, Fitness, Code or even reading books. This utility allows the users to choose (or upload) from a variety of image backgrounds, and choose a border style and then let's them post the image (along with the description of their milestones for a particular day) on linked social media accounts with a single click.
 
 It's a prototype, just to show how the utility should work.
 
